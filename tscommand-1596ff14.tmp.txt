@@ -1,0 +1,1 @@
+server/controllers/index.ts server/model/list_model.ts server/routes/appRoutes.ts server/routes/baseRoutes.ts server/.baseDir.ts --removeComments --target ES6 --module commonjs --outDir ./dist

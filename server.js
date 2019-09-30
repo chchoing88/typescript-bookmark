@@ -16,7 +16,7 @@ httpServer.on("error", onError);
 // 서버거 바인딩될 때 호출
 httpServer.on("listening", onListening);
 
-function onError(error: NodeJS.ErrnoException) {
+function onError(error) {
   if (error.syscall !== "listen") {
     throw error;
   }
