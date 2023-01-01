@@ -39,8 +39,8 @@
     "nodemon": "^1.19.2",
     "open": "^6.4.0",
     "time-grunt": "^2.0.0",
-    "ts-loader": "^6.1.2",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.6.3",
-    "webpack": "^4.40.2"
+    "webpack": "^5.75.0"
   }
 }
